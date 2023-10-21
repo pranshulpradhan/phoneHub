@@ -1,0 +1,88 @@
+.navBar{
+    background-color: #0d6efd0d;
+    display: flex;
+    justify-content: space-between;
+}
+
+.signUp{
+    border-radius: 10%;
+    background-color: rgb(41, 41, 190);
+    color: white;
+    margin-right: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: large;
+    /* padding: -10px 15px -10px 15px; */
+}
+
+.first{
+    background-color: #0d6efd0d;
+}
+
+.heading1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 75px;
+    margin: 0px;
+}
+
+.detail{
+    text-align: center;
+    font-size: 25px;
+}
+
+.b{
+    position: relative;
+    /* background-color: #0d6efd0d; */
+}
+
+.buyNow.signUp{
+    /* position: absolute; */
+    /* left: 50%; */
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.images{
+    position: relative;
+    margin-left: 16%;
+    /* margin-top: 15%; */
+    /* background-color: #0d6efd0d; */
+}
+
+.first.second{
+    padding-top: 10%;
+}
+
+.heading2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-left: 4%;
+}
+
+.searchField{
+    height: 3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1rem;
+    /* line-height: 2;
+    line-height: 1.5rem; */
+    border-width: 1px;
+    border-radius: 10%;
+    border-color: grey;
+    margin-right: 10px;
+    width: 20vw;
+
+}
+
+.hidden{
+    display: none;
+}
